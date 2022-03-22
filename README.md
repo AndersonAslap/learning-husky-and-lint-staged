@@ -1,1 +1,1 @@
-# learning-husku-and-lint-staged
+# learning-husky-and-lint-staged
